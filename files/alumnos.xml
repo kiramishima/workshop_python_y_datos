@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<students>
+    <student id="1" name="Paul" last_name="Arizpe" />
+    <student id="2" name="Fernanda" last_name="Martinez" />
+    <student id="3" name="Tania" last_name="Guzman" />
+    <student id="4" name="Paola" last_name="Rios" />
+</students>

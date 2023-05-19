@@ -129,3 +129,4 @@ ui-tests/playwright-report
 
 # RTC
 .jupyter_ystore.db
+DATASETS/da_victimas_completa_enero_2022.csv
